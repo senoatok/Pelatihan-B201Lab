@@ -1,0 +1,45 @@
+p {
+  color: #ac20a0;
+  line-height: 1.6;
+}
+
+h1 {
+  color: #861c92;
+  line-height: 1.6;
+}
+
+h2 {
+  color: #a736b4;
+  line-height: 1.6;
+}
+
+li {
+  color: #a86aaf;
+  line-height: 1;
+}
+
+span {
+  color: #8c6590;
+  line-height: 1;
+}
+
+
+.navbar {
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 24px;
+}
+
+body {
+    background: #be9ebf;
+    font-family: sans-serif;
+}
+
+.avatar {
+  width: 128px;
+  height: 128px;
+  border-radius: 50%;
+  object-fit: cover;
+  flex-shrink: 0;
+}

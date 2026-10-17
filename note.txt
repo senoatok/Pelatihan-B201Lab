@@ -1,0 +1,16 @@
+pakai ! enter buat format standar langsung
+
+ganti title ke nama || portofolio
+
+href bisa kasih link buat
+
+# dalam href itu buat tag section buat referensi ke itunya
+
+div dan span itu kontainer, span kontain sesuai sama isinya doang, about about doang, klo div itu satu row
+
+pakai list buat projects
+
+pakai href buat link contact (mailto)
+
+pakai style.css yang dicantumkan di header buat ganti format/ style tiap class
+
